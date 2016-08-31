@@ -1,0 +1,127 @@
+.logo {
+	background: black;
+}
+
+nav {
+	text-decoration: none;
+    color: white;
+    clear: left;
+    background: black;
+    margin: 0% auto;
+    font-size: 15px;
+    text-align: center;
+}
+
+nav a {
+	margin: 2%;
+	text-decoration: none;
+	color: white;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+h2 a {
+	text-decoration: none;
+	color: blue;
+}
+
+h2 {
+	float: left;
+}
+
+.episodes {
+	text-decoration: none;
+	color: blue;
+}
+
+.logos {
+	margin: 0 auto;
+}
+
+.episode {
+	max-width: 100%;
+    border: 2px solid #d2c6c6;
+}
+
+.morep {
+	max-width: 100%;
+	border: 2px solid #d2c6c6;
+}
+
+.small {
+	min-width: 100%;
+}
+
+.small2 {
+	max-width: 100%;
+}
+
+.pside {
+	color: blue;
+}
+
+strong {
+	color: blue;
+}
+
+.imag {
+	background: black;
+	width: 50px;
+	height: 50px;
+}
+
+.fondo {
+	background: gray;
+	margin: auto;
+	border-bottom: 3px solid #bfb5b5;
+}
+
+.parrafo {
+	color: #2a2aa0;
+    font-size: 20px;
+    font-family: serif;
+}
+
+b {
+	color: #c1b7b7;
+}
+
+.list-center {
+	text-align: center;
+}
+
+.linea {
+	border: 1px solid #d4caca;
+    width: 100%;
+    margin: 10px auto;
+}
+
+h6 {
+	text-align: center;
+}
+
+section .aside {
+	width: 20%;
+	float: right;
+	/*background: red;*/
+	padding: 20px;
+	box-sizing: border-box;
+}
+
+footer {
+	background: #3e3131;
+    color: white;
+    font-size: 15px;
+    font-family: cursive;
+    padding: 2%;
+    margin: auto;
+    clear: both;
+}
+
+.back {
+	width: auto;
+	margin: 0 auto;
+}
+
+
+
