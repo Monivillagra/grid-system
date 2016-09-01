@@ -23,8 +23,8 @@
 }
 
 .row {
-	margin-left: -14px;
-	margin-right: -14px;
+	margin-left: 0;
+	margin-right: 0;
 }
 
 .row:before, .row:after{
